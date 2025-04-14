@@ -36,7 +36,7 @@ const PopularRecipes = () => {
                                     {recipe.description}
                                 </p>
                                 <button className="mt-4 px-4 py-2 bg-amber-500 text-white rounded-md hover:bg-amber-600 transition-colors">
-                                    Ver receita
+                                    See reciepe
                                 </button>
                             </div>
                         </div>

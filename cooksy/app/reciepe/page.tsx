@@ -51,9 +51,9 @@ const RecipePage = () => {
 
                   {/* Recipe Cards 2-4 */}
                   {[
-                      { id: 2, name: "Doro wet", image: "/doro.jpg",description:"Doro Wat is a rich and spicy Ethiopian chicken stew made with tender chicken, hard-boiled eggs, onions, and a flavorful blend of berbere spice and niter kibbeh (spiced butter). " },
+                      { id: 2, name: "Dorowet", image: "/doro.jpg",description:"Doro Wet is a rich and spicy Ethiopian chicken stew made with tender chicken, hard-boiled eggs, onions, and a flavorful blend of berbere spice and niter kibbeh (spiced butter). " },
                       { id: 3, name: "Gomen", image: "/gomen.jpg",description:"Gomen is a traditional Ethiopian dish made from slow-cooked collard greens or kale, seasoned with garlic, onions, and spiced butter. " },
-                      { id: 4, name: "Kittfo", image: "/kitfo.jpg",description:"Kitfo is a traditional Ethiopian dish made from finely minced raw or lightly cooked beef, seasoned with mitmita (spicy chili powder) and niter kibbeh (spiced clarified butter). " },
+                      { id: 4, name: "Kitfo", image: "/kitfo.jpg",description:"Kitfo is a traditional Ethiopian dish made from finely minced raw or lightly cooked beef, seasoned with mitmita (spicy chili powder) and niter kibbeh (spiced clarified butter). " },
                       { id: 5, name: "Tibs", image: "/tibs.jpg",description:"Tibs is a popular Ethiopian dish made of sautéed meat—usually beef or lamb—cooked with onions, garlic, and peppers. It can be mild or spicy and is often served with injera" }
                   ].map((recipe) => (
                       <div key={recipe.id} className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">

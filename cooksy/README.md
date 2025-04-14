@@ -31,7 +31,7 @@ To run this project locally:
    ```bash
    git clone https://github.com/yourusername/food-recipe-website.git
    cd food-recipe-website
-   
+
 ## 📖 About
 
 This website was created to preserve traditional recipes and share the joy of cooking homemade meals. From classic Ethiopian dishes like **Doro Wat** and **Injera** to modern and healthy twists, we make sure our recipes are easy to follow and filled with flavor.
