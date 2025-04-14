@@ -4,9 +4,9 @@ const Footer = () => {
   return (
     <footer className="bg-gray-50 py-8 px-4">
       <div className="max-w-4xl mx-auto text-center flex flex-row justify-between">
-        <h2 className="text-2xl font-bold text-gray-800 mb-4">Delícias à Mesa</h2>
+        <h2 className="text-2xl font-bold text-gray-800 mb-4">Delicious Meals</h2>
         <div>
-        <p className="text-gray-600 mb-6">Redes sociais:</p>
+        <p className="text-gray-600 mb-6">Social Medias:</p>
         <div className="flex justify-center space-x-6">
           <a href="#" className="text-gray-700 hover:text-blue-600 transition-colors">
             <FaFacebook size={24} />
